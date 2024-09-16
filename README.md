@@ -1,3 +1,24 @@
+# Description: <br>
+Developed a full stack chat application using React for the frontend and Firebase for the backend, with Google authentication for secure user access. The app enables real-time messaging, with all messages and user data stored in Firebase's database. Implemented security measures, including profanity filtering, to maintain a respectful and safe chat environment.
+
+## Technologies Used:
+
+Frontend: React <br>
+Backend: Firebase <br>
+Authentication: Google Sign-In
+
+Here are some pictures to show how it works (see below)
+
+A user writes messages in the front end:
+
+<img width="734" alt="Screenshot 2024-09-16 at 1 42 13 PM" src="https://github.com/user-attachments/assets/fd992c76-2e3d-48cd-848e-aa3a4d8903de">
+<br>
+<br>Here is how Firebase stores those messages in the Firestore database:
+
+<img width="1114" alt="Screenshot 2024-09-16 at 1 42 05 PM" src="https://github.com/user-attachments/assets/f191c936-9145-4977-b7ea-b4ddb53e6957">
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
